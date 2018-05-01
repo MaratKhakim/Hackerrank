@@ -1,4 +1,4 @@
-package algorithms.greedy;
+package algorithms.recursion;
 
 import java.util.Scanner;
 
